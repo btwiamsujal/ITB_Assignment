@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-user',
-  imports: [UserComponent],
+  imports: [],
   templateUrl: './user.component.html',
   styleUrl: './user.component.css'
 })
